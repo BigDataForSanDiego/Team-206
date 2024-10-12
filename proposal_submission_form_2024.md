@@ -5,7 +5,7 @@
 #### Team Name: `VIP's`    
   
 #### Your teamâ€™s hackathon idea in One sentence: 
-##### `AI-powered multi-lingual voice assistant within the Sharp Healthcare app to assist users with inquiries, schedule appointments, manage medication, and provide relvant info to doctors.`
+##### `AI-powered multi-lingual voice assistant within the Sharp Healthcare app to assist users with inquiries, schedule appointments, follow prescription plans, and provide relevant info to doctors.`
 
 
 #### A visual
