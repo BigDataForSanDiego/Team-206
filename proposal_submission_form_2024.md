@@ -9,7 +9,7 @@
 
 
 #### A visual
-![Alt text](image.png) 
+<img src="image.png" alt="Alt text" width="200"/> 
 
 <!--
 #### Theme: Enhancing Healthcareâ€™s Digital Front Door
