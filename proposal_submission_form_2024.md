@@ -11,7 +11,7 @@
 #### A visual
 <img src="image.png" alt="Alt text" width="400"/>
 
-Included above is the design of the revamped Sharp homepage, including the AI voice assistant in the bottom right hand side. This feature serves to grant accessibility to users unfamiliar with using mobile apps.
+Included above is the design of the revamped Sharp homepage, including the AI voice assistant in the bottom right-hand-side corner. This feature serves to grant accessibility to users unfamiliar with using mobile apps.
 
 <!--
 #### Theme: Enhancing Healthcareâ€™s Digital Front Door
